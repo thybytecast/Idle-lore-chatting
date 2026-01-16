@@ -1,0 +1,25 @@
+{
+  "title": "Chat with user47",
+  "messages": [
+    {
+      "type": "system",
+      "text": "user47 has entered the chat"
+    },
+    {
+      "type": "message",
+      "user": "profTerm",
+      "color": "#0000FF",
+      "text": "Did you finish grading the papers?"
+    },
+    {
+      "type": "message",
+      "user": "user47",
+      "color": "#008000",
+      "text": "I tried. The terminal froze again."
+    },
+    {
+      "type": "system",
+      "text": "user47 has left the chat"
+    }
+  ]
+}
